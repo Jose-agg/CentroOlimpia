@@ -8,7 +8,7 @@ Este repositorio contiene la implementacion de una aplicacion encargada de gesti
 
 Esto proyecto fue desarrollado por:
 
-- MªRosa Valdés
+- [MªRosa Valdés](https://github.com/RosaValdesPire)
 
 - [Iván Casielles Álvarez](https://github.com/avancasielles)
 
