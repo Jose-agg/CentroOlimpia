@@ -3,7 +3,6 @@
 Este repositorio contiene la implementacion de una aplicacion encargada de gestionar un centro deportivo. Se utiliza un centro deportivo ficticio al que se llamará **Centro Olimpia**.
 ![Logo](https://github.com/MrKarrter/CentroOlimpia/blob/master/Imagenes/Logo.png)
 
-- - - -
 
 ## Participantes ##
 
@@ -17,7 +16,6 @@ Esto proyecto fue desarrollado por:
 
 - [José Antonio García García](https://github.com/MrKarrter)
 
-- - - -
 
 ## Metodologia utilizada: SCRUM ##
 
@@ -30,7 +28,6 @@ Iván        |         8        |        13        |        15        |
 Pelayo      |         8        |        15        |        15        |       
 Jose        |         8        |        15        |        14        |
 
-- - - -
 
 ## Wiki ##
 
