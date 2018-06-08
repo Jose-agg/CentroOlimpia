@@ -1,7 +1,7 @@
 # PROYECTO CENTRO OLIMPIA #
 
 Este repositorio contiene la implementacion de una aplicacion encargada de gestionar un centro deportivo. Se utiliza un centro deportivo ficticio al que se llamará **Centro Olimpia**.
-![Logo](https://github.com/MrKarrter/CentroOlimpia/blob/master/Imagenes/logo.png)
+![Logo](https://github.com/MrKarrter/CentroOlimpia/blob/master/Imagenes/Logo.png)
 
 - - - -
 
